@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm David Graves 👋
 
-<!--
-**dgravitate/dgravitate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I write about quantum computing, workflow optimization, and other advanced python topics and share insights across different platforms.  
 
-Here are some ideas to get you started:
+## 📝 My Writing
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@graveybeard)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/david-g-ab71a72/))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/graveybeard)
+
+---
+
+Thanks for stopping by! Feel free to explore my projects or reach out on social media.
